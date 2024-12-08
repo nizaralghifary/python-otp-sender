@@ -1,0 +1,4 @@
+You can use this file for file input method
+
+Example :
+088888888888
